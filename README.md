@@ -1,2 +1,0 @@
-# Poopy-Face
-NPM module
